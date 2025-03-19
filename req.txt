@@ -1,0 +1,10 @@
+torch
+opencv-python
+Pillow
+easyocr
+numpy
+tk
+torch
+requests
+pandas
+
